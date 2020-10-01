@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CandyDozer.unity
+    guid: 7f4b9eb4edf404cfd831d7b6591beda3
   m_configObjects: {}
